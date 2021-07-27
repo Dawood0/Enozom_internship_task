@@ -3,12 +3,7 @@ Name: Ahmed Elshahat Saad Abdelazeez Dawood
 Task: Enozom Internship Technical Task
 '''
 
-import hashlib
-
-def MD5(str2hash):
-    result = hashlib.md5(str2hash.encode())
-
-    return f"The hexadecimal equivalent of hash is : {result.hexdigest().upper()}"
+from MD5_algorithm import MD5
 
 f=open('annual-enterprise-survey-2020-financial-year-provisional-csv.csv','r')
 cnt=0
