@@ -7,4 +7,5 @@ There are 2 python files:
 * The second opens and reads from the csv file
 
 ## Result:
-![image](screenshot.png)
+  
+![image](/screenshot.png)
