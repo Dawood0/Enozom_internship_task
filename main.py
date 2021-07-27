@@ -21,5 +21,5 @@ for i in f.readlines()[1:]:                          # skipping the first row of
 
 f.close()
 
-print(concatenated_string)                           # printing the string
+#print(concatenated_string)                           # printing the string
 print(MD5(concatenated_string))                      # calling the MD5 function
