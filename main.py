@@ -5,8 +5,6 @@ Task: Enozom Internship Technical Task
 
 import hashlib
 
-# encoding GeeksforGeeks using encode()
-# then sending to md5()
 def MD5(str2hash):
     result = hashlib.md5(str2hash.encode())
 
