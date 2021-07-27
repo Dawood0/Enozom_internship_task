@@ -8,4 +8,4 @@ There are 2 python files:
 
 ## Result:
   
-![image](/screenshot.png)
+![image](screenshot.PNG)
